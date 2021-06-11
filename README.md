@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on github projects
+- 🌱 I’m currently learning Powershell
+- 👯 I’m looking to collaborate on Azure projects
+- 🤔 I’m looking for help with C#
+- 💬 Ask me about Azure
+- 📫 How to reach me: https://stefanos.cloud
+
+
 <!--
 **stefanoscloud/stefanoscloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
