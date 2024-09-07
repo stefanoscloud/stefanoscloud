@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with C#
 - 💬 Ask me about Azure
 - I am available at Gitlab (https://gitlab.com/stefanoscloud) and Gitbook (https://app.gitbook.com/).
-- 📫 How to reach me: https://stefanos.cloud
+- 📫 How to reach me: https://cloudschool.tv
 
 
 <!--
